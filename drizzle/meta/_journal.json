@@ -3,10 +3,10 @@
   "dialect": "postgresql",
   "entries": [
     {
-      "idx": 0,
+      "idx": 1,
       "version": "7",
-      "when": 1770191002244,
-      "tag": "0000_great_the_renegades",
+      "when": 1770196218438,
+      "tag": "0001_jittery_mach_iv",
       "breakpoints": true
     }
   ]
